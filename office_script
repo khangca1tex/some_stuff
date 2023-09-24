@@ -1,0 +1,3 @@
+cscript ospp.vbs /sethst:kms.digiboy.ir
+cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
+cscript ospp.vbs /act
